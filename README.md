@@ -1,2 +1,2 @@
-# face-recognition-model
+# emotion-recognition-model
 UVA CS4501: Computer Vision Final Project
